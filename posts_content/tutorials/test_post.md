@@ -12,6 +12,6 @@ draft: true
 # Create two variables to use as inputs to the function
 fruit = 'Apple'
 pieces = 'twelve'
-{% /highlight %}
+{% endhighlight %}
 
 ![Alt Text](_images/image_code.png "Optional Title")
