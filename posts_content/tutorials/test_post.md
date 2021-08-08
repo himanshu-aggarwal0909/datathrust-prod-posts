@@ -20,4 +20,4 @@ pieces = 'twelve'
 import os 
 print(os.version())
 ```
-![Alt Text](/_images/image_code.png) {.wp-post-image}
+![Alt Text](/posts_content/_images/image_code.png) {.wp-post-image}
