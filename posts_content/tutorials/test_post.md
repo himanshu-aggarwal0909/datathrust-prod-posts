@@ -5,6 +5,7 @@ date: 2021-02-19T00:00:00-07:00
 description: "How to static type check in Python using Mypy"
 type: technical_note
 draft: true
+post_status : draft
 ---
 
 ## Create Variables
@@ -14,4 +15,9 @@ fruit = 'Apple'
 pieces = 'twelve'
 {% endhighlight %}
 
-![Alt Text](_images/image_code.png "Optional Title")
+
+```python
+import os 
+print(os.version())
+```
+![Alt Text](/_images/image_code.png "Optional Title")
