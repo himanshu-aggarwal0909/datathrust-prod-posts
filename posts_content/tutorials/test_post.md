@@ -8,10 +8,10 @@ draft: true
 ---
 
 ## Create Variables
-{{< highlight python >}}
+{% highlight python %}
 # Create two variables to use as inputs to the function
 fruit = 'Apple'
 pieces = 'twelve'
-{{< /highlight >}}
+{% /highlight %}
 
 ![Alt Text](_images/image_code.png "Optional Title")
