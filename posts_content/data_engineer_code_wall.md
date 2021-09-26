@@ -1,11 +1,19 @@
+---
+title: Data Engineer Code Wall
+taxonomy:
+    category: tutorials
+author: "Himanshu Aggarwal"
+description: "Code Notes or tutorials for a data engineer"
+post_status: draft
+---
 
-# Data Engineer Code Wall
+ 
 > Code Tutorials -  Code blocks that are extensively required, while working as a data engineer.
 
 <br/>
 
 ---
-Big Data 
+## Big Data 
 ---
 
 |  Bringing/Syncing data into your Big data Environment |
@@ -29,7 +37,7 @@ Big Data
 <br />
 
 ---
-Tools
+## Tools
 ---
 
 | Azkaban |
