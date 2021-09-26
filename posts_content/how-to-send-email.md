@@ -2,6 +2,7 @@
 title: How to send email using python?
 taxonomy:
     category: tutorials
+    
 author: "Himanshu Aggarwal"
 description: "Sending Mail Utility in Python(via SMTP)"
 post_status: draft
@@ -12,8 +13,7 @@ Although in production you may have preset and straightforward ways to do the sa
 But, this can be a handy code for sending mail via python
 
 Before, Sending mails using this script.
-Please ensure that you have enabled the access to less secure apps
-[Google Enable Less Secure Apps](https://myaccount.google.com/lesssecureapps)
+Please ensure that you have enabled the access to less secure apps (Help Link : [Google Enable Less Secure Apps](https://myaccount.google.com/lesssecureapps))
 Follow this [Google Help Link](https://support.google.com/mail/answer/7126229?visit_id=1538904444444-1419963073072761751&rd=2#cantsignin), if faces any issue.
 
 ```python
@@ -80,5 +80,6 @@ if __name__ == '__main__':
     else:
         logging.error('Sending Email Failed Error Message {}'.format(error_message))
 ```
+
 
 Some Recommendations : Pick the password from a credentials manager (in production) and use template for message email body
